@@ -1,0 +1,22 @@
+{
+  "loadMore": "Load more",
+  "freeShipping": "FREE SHIPPING",
+  "sellerName": "Seller name: {name}",
+  "goToForm": "Go to form",
+  "like": "like",
+  "likes": "likes",
+  "sold": "sold",
+  "resultSummary": "Result summary",
+  "submit": "Submit",
+  "female": "Female",
+  "male": "Male",
+  "person.name": "Name",
+  "person.gender": "Gender",
+  "person.nationality": "Nationality",
+  "person.favoriteAnimal": "Favorite Animal",
+  "personValidation.noName": "No name was provided",
+  "personValidation.nameTooShort": "Name is too short",
+  "personValidation.noNationailty": "No nationality checked",
+  "personValidation.noGender": "No gender selected",
+  "personValidation.noFavoriteAnimal": "No favorite animal selected"
+}
